@@ -1,0 +1,26 @@
+{
+  "name": "dude-api",
+  "version": "1.0.0",
+  "description": "REST API servers generator from RAML 1.0 specification.",
+  "main": "lib/cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxim-yakupov/dude-api.git"
+  },
+  "keywords": [
+    "generator",
+    "rest",
+    "api",
+    "cli",
+    "dude"
+  ],
+  "author": "Maxim Yakupov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maxim-yakupov/dude-api/issues"
+  },
+  "homepage": "https://github.com/maxim-yakupov/dude-api#readme"
+}
